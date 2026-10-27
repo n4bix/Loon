@@ -1,7 +1,7 @@
 #!name = 美团去广告
 #!desc = 屏蔽美团埋点/HTTPDNS/聚合广告域名与广告服务器 IP，并去除首页金刚位、推荐流、开屏图、购物车 Banner、AI 技能、搜索默认词与热词等广告位
 #!author = TG@ZenMoFiShi / Loon 移植
-#!homepage = 
+#!homepage = https://google.com
 #!tag = 去广告,美团
 #!type = normal
 #!system = 
